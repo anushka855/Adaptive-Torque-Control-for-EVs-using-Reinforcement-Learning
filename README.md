@@ -101,8 +101,3 @@ The RL controller is compared against a conventional PI controller using:
 - Mode switching (Eco / Sport / Balanced)  
 - Hardware-in-the-loop validation  
 - Embedded implementation  
-
----
-
-VIT Vellore, 7th sem project.  
-Sep – Dec 2025
